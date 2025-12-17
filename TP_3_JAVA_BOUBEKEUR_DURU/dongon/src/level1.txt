@@ -1,0 +1,27 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W                                      W
+W   C         B           C       B    W
+W                                      W
+W       IIIIIII               IIIIIII  W
+W       I     I               I     I  W
+W   B   I  C  I       B       I  C  I  W
+W       I     I               I     I  W
+W       IIIIIII               IIIIIII  W
+W                                      W
+W                                      W
+W   C       IIIIIIIIIIIIIIIII      C   W
+W           I               I          W
+W       B   I      C        I      B   W
+W           I               I          W
+W           IIIIIIIIIIIIIIIII          W
+W                                      W
+W                                      W
+W       IIIII                 IIIII    W
+W       I   I       C         I   I    W
+W   B   I C I       B         I C I    W
+W       I   I                 I   I    W
+W       IIIII                 IIIII    W
+W                                      W
+W   C           B       B         C    W
+W                                      W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
